@@ -1,2 +1,2 @@
-$var = "Hello There"
-prnt($var)
+$var2 = strip("Hello","ll")
+print($var2)
